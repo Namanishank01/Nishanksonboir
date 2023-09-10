@@ -21,9 +21,9 @@
     <H4>CONTECT</H4>
     <a href="openthelinkdinprofile:"www.linkedin.com/in/naman-kumar-s-48490b264">Naman kumar sahu-Linkdin </a>
     <br>
-    <a href="mailto:"namansonboir1976@gmail.com>Email the Naman</a>
+    <a href="mailto:"namansonboir1976@gmail.com>Mail to Naman</a>
     <br>
-    <a href="callme:"9589405633"> call</a>
+    <a href="callto:"9589405633"> call</a>
     <P>post address-House.no-192,Vill:Chhediiya,post:Tarri,tah:Gurur,Dist:Balod</P>
     <hr>
     <h4>EDUCATION</H>
@@ -33,6 +33,9 @@
     <small>SKAUSHAL AUGMENTION & RESTRUCTURING</small>
     <H5>HIGHER SECONDRY SCHOOL EDUCETION</H5>
     <small>MAHETARU RAM DHIWAR GOVT H S SCHOOL OF EXELLENCE </small>
+    <br>
+    <H5>HIGH SCHOOL EDUCETION CIRTIFICATION</H5>
+    <small>SARVODAYA ENGLISH HIGH SCHOOL </small>
     <hr>
     <H4>EXEPIENCE</H4>
     <h5>MINOR PROJECT-1</h5>
